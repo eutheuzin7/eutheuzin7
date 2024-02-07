@@ -15,4 +15,5 @@
  
 <div> 
   <a href="https://t.me/eutheuzin" target="_blank"><img src="https://img.shields.io/badge/telegram-0c63f7?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://gist.github.com/eutheuzin7" target="_blank"><img src="https://img.shields.io/badge/GIST-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
